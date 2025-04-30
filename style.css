@@ -7,14 +7,6 @@ header {
   width: 100%;
   box-sizing: border-box;
 }
-}
-}
-header {
-  background: #111;
-  color: white;
-  padding: 20px;
-  text-align: center;
-}
 nav a {
   color: white;
   margin: 0 15px;
