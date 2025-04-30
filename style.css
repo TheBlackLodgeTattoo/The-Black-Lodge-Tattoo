@@ -1,10 +1,12 @@
 
-body {
-  background-color: black;
+header {
+  background: #111;
   color: white;
-  font-family: sans-serif;
-  margin: 0;
-  padding: 0;
+  padding: 20px;
+  text-align: center;
+  width: 100%;
+  box-sizing: border-box;
+}
 }
 }
 header {
