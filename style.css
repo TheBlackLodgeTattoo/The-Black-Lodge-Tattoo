@@ -19,9 +19,11 @@ nav a {
   text-decoration: none;
 }
 section {
+  background-color: black;
   padding: 40px;
   max-width: 900px;
   margin: auto;
+}
 }
 .gallery img {
   width: 30%;
